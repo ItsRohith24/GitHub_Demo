@@ -16,6 +16,6 @@ should commit everytime after modifying a file, after adding we have two step:
 4. unmodified
 
 # Add and Commit:
-*Add:* git add <-file name->
+*Add:* git add <-file name->     *git add . to add all files*
 
 *Commit* git commit -m "some mesage"
