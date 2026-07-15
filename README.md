@@ -8,6 +8,7 @@ should commit everytime after modifying a file, after adding we have two step:
 
 1. add
 2. commit
+3. push - to add it to the github site
 
 # 4 types of files:
 1. untrack
